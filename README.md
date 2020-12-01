@@ -1,4 +1,4 @@
-# automl开源技术研究
+# AutoML开源技术研究
 
 添加了使用autokeras进行图形与文本分类任务，可在jupyter中直接运行
 
